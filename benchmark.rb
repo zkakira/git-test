@@ -3,3 +3,4 @@ add some text...
 add new text string
 changes not staged for commit
 # test line
+re add some text..
